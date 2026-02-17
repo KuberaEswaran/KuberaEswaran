@@ -1,16 +1,29 @@
 ## Hi there 👋
+# Kubera Eswaran S
 
-<!--
-**KuberaEswaran/KuberaEswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with strong foundation in Data Structures, Algorithms, and System Design.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Java
+- Python
+- JavaScript
+- Node.js, Express.js
+- React.js
+- MongoDB, SQL
+- Machine Learning (LightGBM, openCV)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Deepfake Image Detection System
+- HRMS & Payroll Management System (MERN Stack)
+
+## 📊 Coding
+- 300+ problems solved
+- Regular LeetCode contest participant
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kubera-eswaran-s/
+- LeetCode: https://leetcode.com/u/Kubera_Eswaran_S/
+- GitHub: https://github.com/KuberaEswaran
+- Email: kuberaneswaran@gmail.com
+
