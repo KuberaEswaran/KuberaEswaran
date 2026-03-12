@@ -17,8 +17,8 @@ Backend Developer with strong foundation in Data Structures, Algorithms, and Sys
 - HRMS & Payroll Management System (MERN Stack)
 
 ## 📊 Coding
-- 300+ problems solved
-- Regular LeetCode contest participant
+- 500+ problems solved
+- Regular Codeforces,Atcoder,LeetCode contest participant
 
 ## 🌐 Connect With Me
 
